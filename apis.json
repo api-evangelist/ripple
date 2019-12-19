@@ -1,0 +1,56 @@
+{
+    "name": "Ripple",
+    "description": "Ripple connects banks, payment providers, digital asset exchanges and corporates via RippleNet to provide one frictionless experience to send money globally",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/21008-ripple.jpg",
+    "tags": [
+        "blockchain",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ripple\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ripple",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/21008-ripple.jpg",
+            "humanURL": "https:\/\/ripple.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ripple-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ripple-labs"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.ripple.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@ripple.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ripple"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Ripple"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/ripple.com"
+        }
+    ]
+}
